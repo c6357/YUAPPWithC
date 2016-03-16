@@ -1,6 +1,6 @@
 //
 //  main.c
-//  YUAPPWithC
+//  https://github.com/c6357/YUAPPWithC
 //
 //  Created by BruceYu on 16/3/14.
 //
